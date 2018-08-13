@@ -327,7 +327,7 @@ y == absGravity ?
 			}
 		},
 		copyright: {
-			html: '<a href="http://www.charlesstover.com/gamengine/" title="GAMEngine &copy; 2011, Charles Stover">GAMEngine</a> &copy; 2011, <a href="http://www.charlesstover.com/" title="Charles Stover">Charles Stover</a>',
+			html: '<a href="https://gamingmedley.com/" title="GAMEngine &copy; 2011, Charles Stover">GAMEngine</a> &copy; 2011, <a href="https://charlesstover.com/" title="Charles Stover">Charles Stover</a>',
 			text: "GAMEngine (c) 2011, Charles Stover"
 		},
 
